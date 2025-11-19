@@ -15,7 +15,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
   <a href="https://www.youtube.com/@SimplexityEdu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" />
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" width="40"/>
   </a>
   <a href="https://leetcode.com/u/CrzyPlayz/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" />
