@@ -3,7 +3,7 @@
 ## 🎓 About Me
 
 - 🎓 Studying Software Engineering (B.Sc.) in the 5th semester at University of Stuttgart
-- 👨‍💻 Focus on: Systems Engineering, Web Development, Automation
+- 👨‍💻 Focus on: Software Engineering, Web Development, Automation
 - 🚀 Building projects to sharpen practical engineering skills
 
 ## 🔗 How to reach me
