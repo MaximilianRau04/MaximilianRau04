@@ -2,9 +2,10 @@
 
 ## 🎓 About Me
 
-- 🎓 Studying Software Engineering (B.Sc.) in the 5th semester at University of Stuttgart
+- 🎓 Studying Software Engineering (B.Sc.) in the 6th semester at University of Stuttgart
 - 👨‍💻 Focus on: Software Engineering and Web Development
 - 🚀 Building projects to sharpen practical engineering skills
+- 💡 Always learning
 
 ## 🔗 How to reach me
 - 📧 E-Mail: maxi.rau2004@gmail.com
