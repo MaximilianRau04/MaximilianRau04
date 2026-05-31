@@ -8,7 +8,7 @@
 - 💡 Always learning
 
 ## 🔗 How to reach me
-- 📧 E-Mail: maxi.rau2004@gmail.com
+- 📧 E-Mail: maximilian@raudev.com
 
 ## 🤝 Connect with me
 <p>
