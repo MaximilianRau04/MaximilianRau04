@@ -41,12 +41,6 @@
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MaximilianRau04/MaximilianRau04/output/trophy.svg" alt="GitHub Trophies" />
-</div>
-
 ## 📈 Contribution Snake
 
 <div align="center">

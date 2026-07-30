@@ -1,4 +1,4 @@
-name: Generate Profile Assets
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -21,17 +21,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Fix dist directory permissions
-        run: sudo chown -R "$USER":"$USER" dist && sudo chmod -R u+rwX dist
-
-      - name: Generate trophy SVG
-        uses: ryo-ma/github-profile-trophy@master
-        with:
-          username: ${{ github.repository_owner }}
-          output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: tokyonight
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
