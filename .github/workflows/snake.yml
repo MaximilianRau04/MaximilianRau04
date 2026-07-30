@@ -22,6 +22,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Fix dist directory permissions
+        run: sudo chown -R "$USER":"$USER" dist && sudo chmod -R u+rwX dist
+
       - name: Generate trophy SVG
         uses: ryo-ma/github-profile-trophy@master
         with:
