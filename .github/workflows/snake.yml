@@ -23,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate trophy SVG
-        uses: ryo-ma/github-profile-trophy@main
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
           output_path: dist/trophy.svg
