@@ -37,7 +37,7 @@
 <img height="165" src="https://github-readme-stats-sandy-nu-88.vercel.app/api?username=MaximilianRau04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats-sandy-nu-88.vercel.app/api/top-langs/?username=MaximilianRau04&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianRau04&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-umber-one.vercel.app/?user=MaximilianRau04&theme=tokyonight&hide_border=true" />
 
 </div>
 
